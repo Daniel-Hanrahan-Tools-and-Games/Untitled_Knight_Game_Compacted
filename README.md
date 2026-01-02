@@ -15,7 +15,7 @@ To get to source code after you loaded the game you press escape key.
 
 This is a one to one port for the most part with the exception of addon mod support, This version is playable in the dev terminal perspective and the music plays when the game is loaded.
 
-<a href="https://daniel-hanrahan-tools-and-games.github.io/Guide_The_Marble_Compacted/Untitled_Knight_Game_Compacted_Web/index.html">Play Game in Browser Here</a>
+<a href="https://daniel-hanrahan-tools-and-games.github.io/Untitled_Knight_Game_Compacted/Untitled_Knight_Game_Compacted_Web/index.html">Play Game in Browser Here</a>
 
 <h3>Both of these links take you to Untitled_Knight_Game</h3>
 
